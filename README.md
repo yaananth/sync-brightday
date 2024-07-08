@@ -13,3 +13,10 @@ JOIN_DATE=2024-07-05
 
 
 Unfortunatly, you need to get those from mobile app proxying the requests.
+
+
+## Usage
+
+```bash
+node index.js
+```
